@@ -1,0 +1,4 @@
+pymongo==4.1.1
+mongoengine 
+colorama 
+python-dateutil
